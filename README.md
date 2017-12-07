@@ -5,6 +5,7 @@
 
 - api - link to your api (not require)
 - height - height of element where we want add map
+- autoClose - allows to close all infowindows when click to the some marker
 - labels - array of the labels
 - polygons - array of the polygons
 
@@ -51,10 +52,6 @@ $('#map').gmap({
 });
 
 ```
-
-### Result
-
-![linebar on page](result.jpg)
 
 -------------
 Thank's for using.
